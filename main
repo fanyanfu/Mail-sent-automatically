@@ -1,0 +1,3 @@
+clear all
+clc
+mailTome('shishi','haha');
